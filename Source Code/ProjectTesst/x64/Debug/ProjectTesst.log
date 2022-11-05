@@ -1,0 +1,291 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  Library.ixx
+  WindowSettings.ixx
+  Trwa kompilowanie…
+  Library.ixx
+  WindowSettings.ixx
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Library.ixx(12,22): warning C5202: fragment modułu globalnego może zawierać tylko dyrektywy preprocesora
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Library.ixx(56,82): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Library.ixx(62,37): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Ball.cpp
+  Boss.cpp
+  Brick.cpp
+  Button.cpp
+  Entity.cpp
+  FileManager.cpp
+  Game.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(61,33): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(65,75): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(65,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(69,28): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(73,68): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(73,47): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(77,34): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(81,84): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(81,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(86,30): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(90,70): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(90,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(358,26): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(374,26): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(431,60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(431,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(521,20): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(558,25): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(636,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(636,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(713,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(713,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(730,34): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(736,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(736,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(745,72): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(745,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(758,34): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(764,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(764,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(793,94): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(793,78): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(795,75): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(795,58): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(930,8): warning C4102: "defult": etykieta, do której nie istnieje odwołanie
+  main.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Menu.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(22,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(26,56): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(26,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Paddle.cpp
+  PowerUp.cpp
+  Ui.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,10): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Generowanie kodu...
+Paddle.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Ball.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Boss.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Brick.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Ball.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z) przywołany w funkcji "public: void __cdecl Ball::SetRadius(float)" (?SetRadius@Ball@@QEAAXM@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+Menu.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+Paddle.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+Ball.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+Boss.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+Brick.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z)
+Ball.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QEAAXM@Z) przywołany w funkcji "public: void __cdecl Ball::SetRadius(float)" (?SetRadius@Ball@@QEAAXM@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::CircleShape::setRadius(float)" (__imp_?setRadius@CircleShape@sf@@QEAAXM@Z)
+Ball.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: float __cdecl sf::CircleShape::getRadius(void)const " (__imp_?getRadius@CircleShape@sf@@QEBAMXZ) przywołany w funkcji "public: void __cdecl Ball::SetRadius(float)" (?SetRadius@Ball@@QEAAXM@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: float __cdecl sf::CircleShape::getRadius(void)const " (__imp_?getRadius@CircleShape@sf@@QEBAMXZ)
+Paddle.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Ball.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Boss.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Brick.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(class sf::Vector2<float> const &)" (__imp_?setOrigin@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Boss.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(class sf::Vector2<float> const &)" (__imp_?setOrigin@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Brick.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(class sf::Vector2<float> const &)" (__imp_?setOrigin@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(class sf::Vector2<float> const &)" (__imp_?setOrigin@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Paddle.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(class sf::Vector2<float> const &)" (__imp_?setOrigin@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+PowerUp.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z) przywołany w funkcji "wchar_t * __cdecl std::_Maklocstr<wchar_t>(char const *,wchar_t *,struct _Cvtvec const &)" (??$_Maklocstr@_W@std@@YAPEA_WPEBDPEA_WAEBU_Cvtvec@@@Z)
+Boss.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Brick.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+Paddle.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float> const &)" (__imp_?setSize@RectangleShape@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::RectangleShape::getSize(void)const " (__imp_?getSize@RectangleShape@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Boss.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::RectangleShape::getSize(void)const " (__imp_?getSize@RectangleShape@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Brick.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::RectangleShape::getSize(void)const " (__imp_?getSize@RectangleShape@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::RectangleShape::getSize(void)const " (__imp_?getSize@RectangleShape@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Paddle.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::RectangleShape::getSize(void)const " (__imp_?getSize@RectangleShape@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Button.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ) przywołany w funkcji "public: __cdecl Button::Button(class std::shared_ptr<class sf::Texture> &,class std::shared_ptr<class sf::Texture> &)" (??0Button@@QEAA@AEAV?$shared_ptr@VTexture@sf@@@std@@0@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+Button.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z) przywołany w funkcji "public: __cdecl Button::Button(class std::shared_ptr<class sf::Texture> &,class std::shared_ptr<class sf::Texture> &)" (??0Button@@QEAA@AEAV?$shared_ptr@VTexture@sf@@@std@@0@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+Menu.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+Button.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ) przywołany w funkcji "int `public: __cdecl Button::Button(class std::shared_ptr<class sf::Texture> &,class std::shared_ptr<class sf::Texture> &)'::`1'::dtor$2" (?dtor$2@?0???0Button@@QEAA@AEAV?$shared_ptr@VTexture@sf@@@std@@0@Z@4HA)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+Menu.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+FileManager.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ) przywołany w funkcji "void __cdecl std::_Construct_in_place<class sf::Texture>(class sf::Texture &)" (??$_Construct_in_place@VTexture@sf@@$$V@std@@YAXAEAVTexture@sf@@@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+FileManager.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ) przywołany w funkcji "public: void * __cdecl sf::Texture::`scalar deleting destructor'(unsigned int)" (??_GTexture@sf@@QEAAPEAXI@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ)
+FileManager.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z) przywołany w funkcji "public: class std::vector<class std::shared_ptr<class sf::Texture>,class std::allocator<class std::shared_ptr<class sf::Texture> > > __cdecl FileManager::getTextures(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?getTextures@FileManager@@QEAA?AV?$vector@V?$shared_ptr@VTexture@sf@@@std@@V?$allocator@V?$shared_ptr@VTexture@sf@@@std@@@2@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual class sf::Vector2<unsigned int> __cdecl sf::RenderWindow::getSize(void)const " (?getSize@RenderWindow@sf@@UEBA?AV?$Vector2@I@2@XZ)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual bool __cdecl sf::RenderWindow::setActive(bool)" (?setActive@RenderWindow@sf@@UEAA_N_N@Z)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "protected: virtual void __cdecl sf::RenderWindow::onCreate(void)" (?onCreate@RenderWindow@sf@@MEAAXXZ)
+Game.obj : error LNK2001: nierozpoznany symbol zewnętrzny "protected: virtual void __cdecl sf::RenderWindow::onResize(void)" (?onResize@RenderWindow@sf@@MEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Time::Time(void)" (__imp_??0Time@sf@@QEAA@XZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Library.ixx.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) bool __cdecl sf::operator>(class sf::Time,class sf::Time)" (__imp_??Osf@@YA_NVTime@0@0@Z) przywołany w funkcji "public: void __cdecl Game::Render(void)" (?Render@Game@@QEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) class sf::Time __cdecl sf::operator-(class sf::Time,class sf::Time)" (__imp_??Gsf@@YA?AVTime@0@V10@0@Z) przywołany w funkcji "public: void __cdecl Game::Render(void)" (?Render@Game@@QEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) class sf::Time & __cdecl sf::operator-=(class sf::Time &,class sf::Time)" (__imp_??Zsf@@YAAEAVTime@0@AEAV10@V10@@Z) przywołany w funkcji "public: void __cdecl Game::Update(float)" (?Update@Game@@QEAAXM@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ) przywołany w funkcji "public: void __cdecl Game::LoadLevel(int)" (?LoadLevel@Game@@QEAAXH@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::String::String(char,class std::locale const &)" (__imp_??0String@sf@@QEAA@DAEBVlocale@std@@@Z) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z) przywołany w funkcji "void __cdecl std::_Construct_in_place<class sf::RenderWindow,class sf::VideoMode,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,enum sf::Style::<unnamed-enum-None> >(class sf::RenderWindow &,class sf::VideoMode &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,enum sf::Style::<unnamed-enum-None> &&)" (??$_Construct_in_place@VRenderWindow@sf@@VVideoMode@2@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4<unnamed-enum-None>@Style@2@@std@@YAXAEAVRenderWindow@sf@@$$QEAVVideoMode@2@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@$$QEAW4<unnamed-enum-None>@Style@2@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: unsigned __int64 __cdecl sf::String::getSize(void)const " (__imp_?getSize@String@sf@@QEBA_KXZ) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::String __cdecl sf::String::substring(unsigned __int64,unsigned __int64)const " (__imp_?substring@String@sf@@QEBA?AV12@_K0@Z) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) przywołany w funkcji "void __cdecl std::_Construct_in_place<class sf::RenderWindow,class sf::VideoMode,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,enum sf::Style::<unnamed-enum-None> >(class sf::RenderWindow &,class sf::VideoMode &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,enum sf::Style::<unnamed-enum-None> &&)" (??$_Construct_in_place@VRenderWindow@sf@@VVideoMode@2@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4<unnamed-enum-None>@Style@2@@std@@YAXAEAVRenderWindow@sf@@$$QEAVVideoMode@2@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@$$QEAW4<unnamed-enum-None>@Style@2@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) class sf::String __cdecl sf::operator+(class sf::String const &,class sf::String const &)" (__imp_??Hsf@@YA?AVString@0@AEBV10@0@Z) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static bool __cdecl sf::Joystick::isConnected(unsigned int)" (__imp_?isConnected@Joystick@sf@@SA_NI@Z) przywołany w funkcji "public: void __cdecl Game::JoystickUpdate(float)" (?JoystickUpdate@Game@@QEAAXM@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static float __cdecl sf::Joystick::getAxisPosition(unsigned int,enum sf::Joystick::Axis)" (__imp_?getAxisPosition@Joystick@sf@@SAMIW4Axis@12@@Z) przywołany w funkcji "public: void __cdecl Game::JoystickUpdate(float)" (?JoystickUpdate@Game@@QEAAXM@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::Window const &)" (__imp_?getPosition@Mouse@sf@@SA?AV?$Vector2@H@2@AEBVWindow@2@@Z) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ) przywołany w funkcji "public: void __cdecl Game::Run(void)" (?Run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z) przywołany w funkcji "public: void __cdecl Game::Run(void)" (?Run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) przywołany w funkcji "public: void __cdecl Game::Run(void)" (?Run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z) przywołany w funkcji "public: void __cdecl Game::Update(float)" (?Update@Game@@QEAAXM@Z)
+Menu.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Library.ixx.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z) przywołany w funkcji "public: void __cdecl Game::JoystickUpdate(float)" (?JoystickUpdate@Game@@QEAAXM@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z) przywołany w funkcji "public: void __cdecl Game::Run(void)" (?Run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Shape@sf@@QEAAXAEBVColor@2@@Z) przywołany w funkcji "public: void __cdecl Game::LoadLevel(int)" (?LoadLevel@Game@@QEAAXH@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QEAAXM@Z) przywołany w funkcji "public: void __cdecl Game::LoadLevel(int)" (?LoadLevel@Game@@QEAAXH@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z) przywołany w funkcji "public: __cdecl Ball::Ball(void)" (??0Ball@@QEAA@XZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ) przywołany w funkcji "int `public: __cdecl Ball::Ball(void)'::`1'::dtor$0" (?dtor$0@?0???0Ball@@QEAA@XZ@4HA)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Texture::setSmooth(bool)" (__imp_?setSmooth@Texture@sf@@QEAAX_N@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ) przywołany w funkcji "int `public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)'::`1'::dtor$11" (?dtor$11@?0???0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@4HA)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float> const &)" (__imp_??0RectangleShape@sf@@QEAA@AEBV?$Vector2@M@1@@Z) przywołany w funkcji "public: __cdecl Boss::Boss(void)" (??0Boss@@QEAA@XZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ) przywołany w funkcji "int `public: __cdecl PowerUp::PowerUp(void)'::`1'::dtor$0" (?dtor$0@?0???0PowerUp@@QEAA@XZ@4HA)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) przywołany w funkcji "public: void __cdecl Game::Run(void)" (?Run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z) przywołany w funkcji "public: void __cdecl Game::Render(void)" (?Render@Game@@QEAAXXZ)
+Menu.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) przywołany w funkcji "void __cdecl std::_Construct_in_place<class sf::RenderWindow,class sf::VideoMode,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,enum sf::Style::<unnamed-enum-None> >(class sf::RenderWindow &,class sf::VideoMode &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,enum sf::Style::<unnamed-enum-None> &&)" (??$_Construct_in_place@VRenderWindow@sf@@VVideoMode@2@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4<unnamed-enum-None>@Style@2@@std@@YAXAEAVRenderWindow@sf@@$$QEAVVideoMode@2@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@$$QEAW4<unnamed-enum-None>@Style@2@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) przywołany w funkcji "public: virtual void * __cdecl sf::RenderWindow::`scalar deleting destructor'(unsigned int)" (??_GRenderWindow@sf@@UEAAPEAXI@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Menu.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineThickness(float)" (__imp_?setOutlineThickness@Text@sf@@QEAAXM@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::String const & __cdecl sf::Text::getString(void)const " (__imp_?getString@Text@sf@@QEBAAEBVString@2@XZ) przywołany w funkcji "public: void __cdecl Game::HandleEvents(class sf::Event,float)" (?HandleEvents@Game@@QEAAXVEvent@sf@@M@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Text::getLocalBounds(void)const " (__imp_?getLocalBounds@Text@sf@@QEBA?AV?$Rect@M@2@XZ) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) przywołany w funkcji "int `public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)'::`1'::dtor$12" (?dtor$12@?0???0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@4HA)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Text & __cdecl sf::Text::operator=(class sf::Text const &)" (__imp_??4Text@sf@@QEAAAEAV01@AEBV01@@Z) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Time const sf::Time::Zero" (__imp_?Zero@Time@sf@@2V12@B) przywołany w funkcji "public: void __cdecl Game::Render(void)" (?Render@Game@@QEAAXXZ)
+Library.ixx.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Time const sf::Time::Zero" (__imp_?Zero@Time@sf@@2V12@B)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B) przywołany w funkcji "public: void __cdecl Game::Render(void)" (?Render@Game@@QEAAXXZ)
+Menu.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B) przywołany w funkcji "public: __cdecl Game::Game(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Game@@QEAA@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Green" (__imp_?Green@Color@sf@@2V12@B)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Blue" (__imp_?Blue@Color@sf@@2V12@B) przywołany w funkcji "public: void __cdecl Game::LoadLevel(int)" (?LoadLevel@Game@@QEAAXH@Z)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Yellow" (__imp_?Yellow@Color@sf@@2V12@B) przywołany w funkcji "public: void __cdecl Game::LoadLevel(int)" (?LoadLevel@Game@@QEAAXH@Z)
+PowerUp.obj : error LNK2001: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Yellow" (__imp_?Yellow@Color@sf@@2V12@B)
+Game.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Magenta" (__imp_?Magenta@Color@sf@@2V12@B) przywołany w funkcji "public: void __cdecl Game::Render(void)" (?Render@Game@@QEAAXXZ)
+PowerUp.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: static class sf::Color const sf::Color::Cyan" (__imp_?Cyan@Color@sf@@2V12@B) przywołany w funkcji "public: virtual void __cdecl PowerUp::Initiate(void)" (?Initiate@PowerUp@@UEAAXXZ)
+Library.ixx.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::InputStream::~InputStream(void)" (__imp_??1InputStream@sf@@UEAA@XZ) przywołany w funkcji "public: virtual void * __cdecl sf::InputStream::`scalar deleting destructor'(unsigned int)" (??_GInputStream@sf@@UEAAPEAXI@Z)
+Library.ixx.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: virtual __cdecl sf::Drawable::~Drawable(void)" (__imp_??1Drawable@sf@@UEAA@XZ) przywołany w funkcji "public: virtual void * __cdecl sf::Drawable::`scalar deleting destructor'(unsigned int)" (??_GDrawable@sf@@UEAAPEAXI@Z)
+Library.ixx.obj : error LNK2019: nierozpoznany symbol zewnętrzny "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Shape::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Shape@sf@@QEBA?AV?$Rect@M@2@XZ) przywołany w funkcji "class sf::Rect<float> __cdecl BallGlobalBounds(class Ball &)" (?BallGlobalBounds@@YA?AV?$Rect@M@sf@@AEAVBall@@@Z::<!Library>)
+sfml-system-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+sfml-graphics-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+sfml-window-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+sfml-audio-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+sfml-network-d.lib : warning LNK4272: wystąpił konflikt typu maszyny biblioteki „x86” z typem maszyny docelowej „x64”
+C:\Users\Cyrez\source\repos\ProjectTesst\x64\Debug\ProjectTesst.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 84

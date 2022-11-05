@@ -1,0 +1,1268 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  WindowSettings.ixx
+  FileStream.ixx
+  Library.ixx
+  regex
+  fstream
+  sstream
+  ranges
+  iostream
+  filesystem
+  Trwa kompilowanie…
+  Library.ixx
+  filesystem
+  regex
+  iostream
+  WindowSettings.ixx
+  fstream
+  sstream
+  ranges
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Library.ixx(12,22): warning C5202: fragment modułu globalnego może zawierać tylko dyrektywy preprocesora
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Library.ixx(56,82): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Library.ixx(62,37): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  FileStream.ixx
+  Ball.cpp
+  Boss.cpp
+  Brick.cpp
+  Button.cpp
+  DifficultMenu.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(5,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(12,68): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(12,58): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(19,61): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(19,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(28,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(33,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(36,60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(36,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\DifficultMenu.cpp(43,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Entity.cpp
+  Game.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: rozwinięcie makra generujące element „defined” ma niezdefiniowane zachowanie
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(400): message : zobacz poprzednią definicję „_Outptr_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(401): message : zobacz poprzednią definicję „_Outptr_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(402): message : zobacz poprzednią definicję „_Outptr_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(403): message : zobacz poprzednią definicję „_Outptr_opt_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(404): message : zobacz poprzednią definicję „_Outptr_result_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(405): message : zobacz poprzednią definicję „_Outptr_opt_result_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_maybenull_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(406): message : zobacz poprzednią definicję „_Outptr_result_maybenull_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_maybenull_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(407): message : zobacz poprzednią definicję „_Outptr_opt_result_maybenull_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_nullonfailure_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(408): message : zobacz poprzednią definicję „_Outptr_result_nullonfailure_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_nullonfailure_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(409): message : zobacz poprzednią definicję „_Outptr_opt_result_nullonfailure_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(410): message : zobacz poprzednią definicję „_COM_Outptr_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(411): message : zobacz poprzednią definicję „_COM_Outptr_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(412): message : zobacz poprzednią definicję „_COM_Outptr_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_opt_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(413): message : zobacz poprzednią definicję „_COM_Outptr_opt_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_out_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(442): message : zobacz poprzednią definicję „_Deref_out_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_out_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(443): message : zobacz poprzednią definicję „_Deref_out_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_opt_out_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(444): message : zobacz poprzednią definicję „_Deref_opt_out_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_opt_out_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(445): message : zobacz poprzednią definicję „_Deref_opt_out_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__null": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(658): message : zobacz poprzednią definicję „__null”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__notnull": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(659): message : zobacz poprzednią definicję „__notnull”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__maybenull": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(660): message : zobacz poprzednią definicję „__maybenull”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__exceptthat": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(661): message : zobacz poprzednią definicję „__exceptthat”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(192): message : zobacz poprzednią definicję „__in”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(196): message : zobacz poprzednią definicję „__in_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__nullterminated": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(623): message : zobacz poprzednią definicję „__nullterminated”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1066): message : zobacz poprzednią definicję „__in_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(199): message : zobacz poprzednią definicję „__out”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(209): message : zobacz poprzednią definicję „__out_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1069): message : zobacz poprzednią definicję „__out_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1070): message : zobacz poprzednią definicję „__out_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(212): message : zobacz poprzednią definicję „__inout”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(222): message : zobacz poprzednią definicję „__inout_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1073): message : zobacz poprzednią definicję „__inout_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(228): message : zobacz poprzednią definicję „__in_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(231): message : zobacz poprzednią definicję „__in_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1076): message : zobacz poprzednią definicję „__in_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(235): message : zobacz poprzednią definicję „__out_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(247): message : zobacz poprzednią definicję „__inout_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(257): message : zobacz poprzednią definicję „__inout_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1081): message : zobacz poprzednią definicję „__inout_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(268): message : zobacz poprzednią definicję „__deref_out”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(278): message : zobacz poprzednią definicję „__deref_out_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1084): message : zobacz poprzednią definicję „__deref_out_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(281): message : zobacz poprzednią definicję „__deref_inout”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(291): message : zobacz poprzednią definicję „__deref_inout_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1087): message : zobacz poprzednią definicję „__deref_inout_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(302): message : zobacz poprzednią definicję „__deref_out_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(312): message : zobacz poprzednią definicję „__deref_out_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1090): message : zobacz poprzednią definicję „__deref_out_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(315): message : zobacz poprzednią definicję „__deref_inout_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(325): message : zobacz poprzednią definicję „__deref_inout_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1093): message : zobacz poprzednią definicję „__deref_inout_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(335): message : zobacz poprzednią definicję „__deref_opt_out”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(345): message : zobacz poprzednią definicję „__deref_opt_inout”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(355): message : zobacz poprzednią definicję „__deref_opt_inout_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1096): message : zobacz poprzednią definicję „__deref_opt_inout_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(365): message : zobacz poprzednią definicję „__deref_opt_out_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(375): message : zobacz poprzednią definicję „__deref_opt_out_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1099): message : zobacz poprzednią definicję „__deref_opt_out_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(378): message : zobacz poprzednią definicję „__deref_opt_inout_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(388): message : zobacz poprzednią definicję „__deref_opt_inout_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1102): message : zobacz poprzednią definicję „__deref_opt_inout_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__nullnullterminated": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(624): message : zobacz poprzednią definicję „__nullnullterminated”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__reserved": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(625): message : zobacz poprzednią definicję „__reserved”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__checkReturn": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(626): message : zobacz poprzednią definicję „__checkReturn”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__override": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(628): message : zobacz poprzednią definicję „__override”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__callback": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(629): message : zobacz poprzednią definicję „__callback”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__format_string": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(630): message : zobacz poprzednią definicję „__format_string”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__fallthrough": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(632): message : zobacz poprzednią definicję „__fallthrough”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_At_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(618): message : zobacz poprzednią definicję „_At_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_When_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(619): message : zobacz poprzednią definicję „_When_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(414): message : zobacz poprzednią definicję „_Outptr_result_buffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(415): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(416): message : zobacz poprzednią definicję „_Outptr_result_buffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(417): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(418): message : zobacz poprzednią definicję „_Outptr_result_buffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(419): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(420): message : zobacz poprzednią definicję „_Outptr_result_buffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(421): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(422): message : zobacz poprzednią definicję „_Outptr_result_buffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(423): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(424): message : zobacz poprzednią definicję „_Outptr_result_buffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(425): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(426): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(427): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(428): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(429): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(430): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(431): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(432): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(433): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(434): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(435): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(436): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(437): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(446): message : zobacz poprzednią definicję „_In_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_opt_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(447): message : zobacz poprzednią definicję „_In_opt_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(448): message : zobacz poprzednią definicję „_In_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_opt_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(449): message : zobacz poprzednią definicję „_In_opt_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(450): message : zobacz poprzednią definicję „_Out_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_opt_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(451): message : zobacz poprzednią definicję „_Out_opt_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(452): message : zobacz poprzednią definicję „_Out_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_opt_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(453): message : zobacz poprzednią definicję „_Out_opt_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(458): message : zobacz poprzednią definicję „_Deref_post_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(459): message : zobacz poprzednią definicję „_Deref_post_opt_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(460): message : zobacz poprzednią definicję „_Deref_post_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(461): message : zobacz poprzednią definicję „_Deref_post_opt_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(454): message : zobacz poprzednią definicję „_Deref_post_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(455): message : zobacz poprzednią definicję „_Deref_post_opt_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(456): message : zobacz poprzednią definicję „_Deref_post_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(457): message : zobacz poprzednią definicję „_Deref_post_opt_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C5106: makro zostało ponownie zdefiniowane z innymi nazwami parametrów
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1108): message : zobacz poprzednią definicję „__readableTo”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(189): message : zobacz poprzednią definicję „__ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(190): message : zobacz poprzednią definicję „__bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(193): message : zobacz poprzednią definicję „__in_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(194): message : zobacz poprzednią definicję „__in_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(197): message : zobacz poprzednią definicję „__in_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(198): message : zobacz poprzednią definicję „__in_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1067): message : zobacz poprzednią definicję „__in_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1068): message : zobacz poprzednią definicję „__in_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(200): message : zobacz poprzednią definicję „__out_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(201): message : zobacz poprzednią definicję „__out_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(203): message : zobacz poprzednią definicję „__out_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(204): message : zobacz poprzednią definicję „__out_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(206): message : zobacz poprzednią definicję „__out_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(207): message : zobacz poprzednią definicję „__out_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(210): message : zobacz poprzednią definicję „__out_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(211): message : zobacz poprzednią definicję „__out_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1071): message : zobacz poprzednią definicję „__out_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1072): message : zobacz poprzednią definicję „__out_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(213): message : zobacz poprzednią definicję „__inout_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(214): message : zobacz poprzednią definicję „__inout_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(216): message : zobacz poprzednią definicję „__inout_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(217): message : zobacz poprzednią definicję „__inout_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(219): message : zobacz poprzednią definicję „__inout_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(220): message : zobacz poprzednią definicję „__inout_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(223): message : zobacz poprzednią definicję „__inout_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(224): message : zobacz poprzednią definicję „__inout_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1074): message : zobacz poprzednią definicję „__inout_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1075): message : zobacz poprzednią definicję „__inout_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(225): message : zobacz poprzednią definicję „__ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(226): message : zobacz poprzednią definicję „__bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(229): message : zobacz poprzednią definicję „__in_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(230): message : zobacz poprzednią definicję „__in_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(232): message : zobacz poprzednią definicję „__in_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(233): message : zobacz poprzednią definicję „__in_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1077): message : zobacz poprzednią definicję „__in_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1078): message : zobacz poprzednią definicję „__in_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(236): message : zobacz poprzednią definicję „__out_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(237): message : zobacz poprzednią definicję „__out_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(239): message : zobacz poprzednią definicję „__out_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(240): message : zobacz poprzednią definicję „__out_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(242): message : zobacz poprzednią definicję „__out_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(243): message : zobacz poprzednią definicję „__out_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(245): message : zobacz poprzednią definicję „__out_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(246): message : zobacz poprzednią definicję „__out_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1079): message : zobacz poprzednią definicję „__out_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1080): message : zobacz poprzednią definicję „__out_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(248): message : zobacz poprzednią definicję „__inout_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(249): message : zobacz poprzednią definicję „__inout_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(251): message : zobacz poprzednią definicję „__inout_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(252): message : zobacz poprzednią definicję „__inout_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(254): message : zobacz poprzednią definicję „__inout_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(255): message : zobacz poprzednią definicję „__inout_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(258): message : zobacz poprzednią definicję „__inout_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(260): message : zobacz poprzednią definicję „__inout_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1082): message : zobacz poprzednią definicję „__inout_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1083): message : zobacz poprzednią definicję „__inout_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(261): message : zobacz poprzednią definicję „__deref_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(262): message : zobacz poprzednią definicję „__deref_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(269): message : zobacz poprzednią definicję „__deref_out_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(270): message : zobacz poprzednią definicję „__deref_out_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(272): message : zobacz poprzednią definicję „__deref_out_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(273): message : zobacz poprzednią definicję „__deref_out_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(275): message : zobacz poprzednią definicję „__deref_out_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(276): message : zobacz poprzednią definicję „__deref_out_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(279): message : zobacz poprzednią definicję „__deref_out_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(280): message : zobacz poprzednią definicję „__deref_out_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1085): message : zobacz poprzednią definicję „__deref_out_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1086): message : zobacz poprzednią definicję „__deref_out_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(282): message : zobacz poprzednią definicję „__deref_inout_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(283): message : zobacz poprzednią definicję „__deref_inout_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(285): message : zobacz poprzednią definicję „__deref_inout_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(286): message : zobacz poprzednią definicję „__deref_inout_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(288): message : zobacz poprzednią definicję „__deref_inout_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(289): message : zobacz poprzednią definicję „__deref_inout_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(292): message : zobacz poprzednią definicję „__deref_inout_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(293): message : zobacz poprzednią definicję „__deref_inout_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1088): message : zobacz poprzednią definicję „__deref_inout_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1089): message : zobacz poprzednią definicję „__deref_inout_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(294): message : zobacz poprzednią definicję „__deref_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(295): message : zobacz poprzednią definicję „__deref_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(303): message : zobacz poprzednią definicję „__deref_out_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(304): message : zobacz poprzednią definicję „__deref_out_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(306): message : zobacz poprzednią definicję „__deref_out_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(307): message : zobacz poprzednią definicję „__deref_out_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(309): message : zobacz poprzednią definicję „__deref_out_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(310): message : zobacz poprzednią definicję „__deref_out_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(313): message : zobacz poprzednią definicję „__deref_out_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(314): message : zobacz poprzednią definicję „__deref_out_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1091): message : zobacz poprzednią definicję „__deref_out_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1092): message : zobacz poprzednią definicję „__deref_out_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(316): message : zobacz poprzednią definicję „__deref_inout_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(317): message : zobacz poprzednią definicję „__deref_inout_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(319): message : zobacz poprzednią definicję „__deref_inout_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(320): message : zobacz poprzednią definicję „__deref_inout_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(322): message : zobacz poprzednią definicję „__deref_inout_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(323): message : zobacz poprzednią definicję „__deref_inout_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(326): message : zobacz poprzednią definicję „__deref_inout_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(327): message : zobacz poprzednią definicję „__deref_inout_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1094): message : zobacz poprzednią definicję „__deref_inout_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1095): message : zobacz poprzednią definicję „__deref_inout_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(328): message : zobacz poprzednią definicję „__deref_opt_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(329): message : zobacz poprzednią definicję „__deref_opt_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(336): message : zobacz poprzednią definicję „__deref_opt_out_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(337): message : zobacz poprzednią definicję „__deref_opt_out_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(339): message : zobacz poprzednią definicję „__deref_opt_out_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(340): message : zobacz poprzednią definicję „__deref_opt_out_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(342): message : zobacz poprzednią definicję „__deref_opt_out_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(343): message : zobacz poprzednią definicję „__deref_opt_out_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(346): message : zobacz poprzednią definicję „__deref_opt_inout_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(347): message : zobacz poprzednią definicję „__deref_opt_inout_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(349): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(350): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(352): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(353): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(356): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(357): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1097): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1098): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(358): message : zobacz poprzednią definicję „__deref_opt_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(359): message : zobacz poprzednią definicję „__deref_opt_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(366): message : zobacz poprzednią definicję „__deref_opt_out_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(367): message : zobacz poprzednią definicję „__deref_opt_out_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(369): message : zobacz poprzednią definicję „__deref_opt_out_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(370): message : zobacz poprzednią definicję „__deref_opt_out_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(372): message : zobacz poprzednią definicję „__deref_opt_out_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(373): message : zobacz poprzednią definicję „__deref_opt_out_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(376): message : zobacz poprzednią definicję „__deref_opt_out_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(377): message : zobacz poprzednią definicję „__deref_opt_out_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1100): message : zobacz poprzednią definicję „__deref_opt_out_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1101): message : zobacz poprzednią definicję „__deref_opt_out_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(379): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(380): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(382): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(383): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(385): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(386): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(389): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(390): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1103): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1104): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__success": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(620): message : zobacz poprzednią definicję „__success”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__typefix": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(627): message : zobacz poprzednią definicję „__typefix”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__blocksOn": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(631): message : zobacz poprzednią definicję „__blocksOn”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__control_entrypoint": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(844): message : zobacz poprzednią definicję „__control_entrypoint”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__data_entrypoint": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1112): message : zobacz poprzednią definicję „__data_entrypoint”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__analysis_assume": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(933): message : zobacz poprzednią definicję „__analysis_assume”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(63,33): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(67,75): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(67,52): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(71,28): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(75,68): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(75,47): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(79,34): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(83,84): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(83,59): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(88,30): warning C4244: "argument": konwersja z "float" do "unsigned int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(92,70): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(92,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(376,27): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(392,27): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(442,103): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(450,60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(450,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(544,20): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(593,25): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(675,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(675,32): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(705,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(764,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(764,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(782,34): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(788,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(788,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(797,72): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(797,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(810,34): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(817,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(817,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(834,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(834,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(865,93): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(865,77): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(867,74): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(867,57): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.cpp(1222,8): warning C4102: "defult": etykieta, do której nie istnieje odwołanie
+  HighScoreMenu.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\HighScoreMenu.cpp(25,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\HighScoreMenu.cpp(29,69): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\HighScoreMenu.cpp(29,51): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\HighScoreMenu.cpp(53,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\HighScoreMenu.cpp(60,42): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\HighScoreMenu.cpp(60,33): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\HighScoreMenu.cpp(73,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: rozwinięcie makra generujące element „defined” ma niezdefiniowane zachowanie
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(400): message : zobacz poprzednią definicję „_Outptr_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(401): message : zobacz poprzednią definicję „_Outptr_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(402): message : zobacz poprzednią definicję „_Outptr_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(403): message : zobacz poprzednią definicję „_Outptr_opt_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(404): message : zobacz poprzednią definicję „_Outptr_result_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(405): message : zobacz poprzednią definicję „_Outptr_opt_result_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_maybenull_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(406): message : zobacz poprzednią definicję „_Outptr_result_maybenull_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_maybenull_z_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(407): message : zobacz poprzednią definicję „_Outptr_opt_result_maybenull_z_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_nullonfailure_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(408): message : zobacz poprzednią definicję „_Outptr_result_nullonfailure_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_nullonfailure_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(409): message : zobacz poprzednią definicję „_Outptr_opt_result_nullonfailure_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(410): message : zobacz poprzednią definicję „_COM_Outptr_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(411): message : zobacz poprzednią definicję „_COM_Outptr_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(412): message : zobacz poprzednią definicję „_COM_Outptr_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_COM_Outptr_opt_result_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(413): message : zobacz poprzednią definicję „_COM_Outptr_opt_result_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_out_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(442): message : zobacz poprzednią definicję „_Deref_out_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_out_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(443): message : zobacz poprzednią definicję „_Deref_out_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_opt_out_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(444): message : zobacz poprzednią definicję „_Deref_opt_out_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_opt_out_opt_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(445): message : zobacz poprzednią definicję „_Deref_opt_out_opt_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__null": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(658): message : zobacz poprzednią definicję „__null”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__notnull": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(659): message : zobacz poprzednią definicję „__notnull”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__maybenull": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(660): message : zobacz poprzednią definicję „__maybenull”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__exceptthat": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(661): message : zobacz poprzednią definicję „__exceptthat”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(192): message : zobacz poprzednią definicję „__in”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(196): message : zobacz poprzednią definicję „__in_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__nullterminated": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(623): message : zobacz poprzednią definicję „__nullterminated”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1066): message : zobacz poprzednią definicję „__in_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(199): message : zobacz poprzednią definicję „__out”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(209): message : zobacz poprzednią definicję „__out_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1069): message : zobacz poprzednią definicję „__out_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1070): message : zobacz poprzednią definicję „__out_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(212): message : zobacz poprzednią definicję „__inout”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(222): message : zobacz poprzednią definicję „__inout_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1073): message : zobacz poprzednią definicję „__inout_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(228): message : zobacz poprzednią definicję „__in_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(231): message : zobacz poprzednią definicję „__in_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1076): message : zobacz poprzednią definicję „__in_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(235): message : zobacz poprzednią definicję „__out_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(247): message : zobacz poprzednią definicję „__inout_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(257): message : zobacz poprzednią definicję „__inout_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1081): message : zobacz poprzednią definicję „__inout_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(268): message : zobacz poprzednią definicję „__deref_out”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(278): message : zobacz poprzednią definicję „__deref_out_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1084): message : zobacz poprzednią definicję „__deref_out_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(281): message : zobacz poprzednią definicję „__deref_inout”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(291): message : zobacz poprzednią definicję „__deref_inout_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1087): message : zobacz poprzednią definicję „__deref_inout_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(302): message : zobacz poprzednią definicję „__deref_out_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(312): message : zobacz poprzednią definicję „__deref_out_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1090): message : zobacz poprzednią definicję „__deref_out_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(315): message : zobacz poprzednią definicję „__deref_inout_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(325): message : zobacz poprzednią definicję „__deref_inout_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1093): message : zobacz poprzednią definicję „__deref_inout_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(335): message : zobacz poprzednią definicję „__deref_opt_out”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(345): message : zobacz poprzednią definicję „__deref_opt_inout”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(355): message : zobacz poprzednią definicję „__deref_opt_inout_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1096): message : zobacz poprzednią definicję „__deref_opt_inout_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(365): message : zobacz poprzednią definicję „__deref_opt_out_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(375): message : zobacz poprzednią definicję „__deref_opt_out_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1099): message : zobacz poprzednią definicję „__deref_opt_out_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(378): message : zobacz poprzednią definicję „__deref_opt_inout_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(388): message : zobacz poprzednią definicję „__deref_opt_inout_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1102): message : zobacz poprzednią definicję „__deref_opt_inout_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__nullnullterminated": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(624): message : zobacz poprzednią definicję „__nullnullterminated”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__reserved": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(625): message : zobacz poprzednią definicję „__reserved”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__checkReturn": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(626): message : zobacz poprzednią definicję „__checkReturn”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__override": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(628): message : zobacz poprzednią definicję „__override”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__callback": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(629): message : zobacz poprzednią definicję „__callback”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__format_string": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(630): message : zobacz poprzednią definicję „__format_string”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__fallthrough": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(632): message : zobacz poprzednią definicję „__fallthrough”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_At_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(618): message : zobacz poprzednią definicję „_At_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_When_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(619): message : zobacz poprzednią definicję „_When_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(414): message : zobacz poprzednią definicję „_Outptr_result_buffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(415): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(416): message : zobacz poprzednią definicję „_Outptr_result_buffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(417): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(418): message : zobacz poprzednią definicję „_Outptr_result_buffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(419): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(420): message : zobacz poprzednią definicję „_Outptr_result_buffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(421): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(422): message : zobacz poprzednią definicję „_Outptr_result_buffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(423): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_buffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(424): message : zobacz poprzednią definicję „_Outptr_result_buffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_buffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(425): message : zobacz poprzednią definicję „_Outptr_opt_result_buffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(426): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(427): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(428): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_to_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(429): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_to_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(430): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_all_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(431): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_all_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(432): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(433): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(434): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_to_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(435): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_to_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_result_bytebuffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(436): message : zobacz poprzednią definicję „_Outptr_result_bytebuffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Outptr_opt_result_bytebuffer_all_maybenull_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(437): message : zobacz poprzednią definicję „_Outptr_opt_result_bytebuffer_all_maybenull_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(446): message : zobacz poprzednią definicję „_In_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_opt_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(447): message : zobacz poprzednią definicję „_In_opt_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(448): message : zobacz poprzednią definicję „_In_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_In_opt_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(449): message : zobacz poprzednią definicję „_In_opt_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(450): message : zobacz poprzednią definicję „_Out_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_opt_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(451): message : zobacz poprzednią definicję „_Out_opt_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(452): message : zobacz poprzednią definicję „_Out_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Out_opt_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(453): message : zobacz poprzednią definicję „_Out_opt_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(458): message : zobacz poprzednią definicję „_Deref_post_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_cap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(459): message : zobacz poprzednią definicję „_Deref_post_opt_cap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(460): message : zobacz poprzednią definicję „_Deref_post_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_bytecap_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(461): message : zobacz poprzednią definicję „_Deref_post_opt_bytecap_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(454): message : zobacz poprzednią definicję „_Deref_post_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_count_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(455): message : zobacz poprzednią definicję „_Deref_post_opt_count_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(456): message : zobacz poprzednią definicję „_Deref_post_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "_Deref_post_opt_bytecount_": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(457): message : zobacz poprzednią definicję „_Deref_post_opt_bytecount_”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C5106: makro zostało ponownie zdefiniowane z innymi nazwami parametrów
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1108): message : zobacz poprzednią definicję „__readableTo”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(189): message : zobacz poprzednią definicję „__ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(190): message : zobacz poprzednią definicję „__bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(193): message : zobacz poprzednią definicję „__in_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(194): message : zobacz poprzednią definicję „__in_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(197): message : zobacz poprzednią definicję „__in_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(198): message : zobacz poprzednią definicję „__in_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1067): message : zobacz poprzednią definicję „__in_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1068): message : zobacz poprzednią definicję „__in_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(200): message : zobacz poprzednią definicję „__out_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(201): message : zobacz poprzednią definicję „__out_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(203): message : zobacz poprzednią definicję „__out_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(204): message : zobacz poprzednią definicję „__out_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(206): message : zobacz poprzednią definicję „__out_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(207): message : zobacz poprzednią definicję „__out_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(210): message : zobacz poprzednią definicję „__out_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(211): message : zobacz poprzednią definicję „__out_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1071): message : zobacz poprzednią definicję „__out_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1072): message : zobacz poprzednią definicję „__out_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(213): message : zobacz poprzednią definicję „__inout_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(214): message : zobacz poprzednią definicję „__inout_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(216): message : zobacz poprzednią definicję „__inout_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(217): message : zobacz poprzednią definicję „__inout_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(219): message : zobacz poprzednią definicję „__inout_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(220): message : zobacz poprzednią definicję „__inout_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(223): message : zobacz poprzednią definicję „__inout_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(224): message : zobacz poprzednią definicję „__inout_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1074): message : zobacz poprzednią definicję „__inout_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1075): message : zobacz poprzednią definicję „__inout_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(225): message : zobacz poprzednią definicję „__ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(226): message : zobacz poprzednią definicję „__bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(229): message : zobacz poprzednią definicję „__in_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(230): message : zobacz poprzednią definicję „__in_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(232): message : zobacz poprzednią definicję „__in_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(233): message : zobacz poprzednią definicję „__in_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1077): message : zobacz poprzednią definicję „__in_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__in_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1078): message : zobacz poprzednią definicję „__in_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(236): message : zobacz poprzednią definicję „__out_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(237): message : zobacz poprzednią definicję „__out_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(239): message : zobacz poprzednią definicję „__out_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(240): message : zobacz poprzednią definicję „__out_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(242): message : zobacz poprzednią definicję „__out_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(243): message : zobacz poprzednią definicję „__out_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(245): message : zobacz poprzednią definicję „__out_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(246): message : zobacz poprzednią definicję „__out_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1079): message : zobacz poprzednią definicję „__out_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__out_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1080): message : zobacz poprzednią definicję „__out_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(248): message : zobacz poprzednią definicję „__inout_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(249): message : zobacz poprzednią definicję „__inout_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(251): message : zobacz poprzednią definicję „__inout_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(252): message : zobacz poprzednią definicję „__inout_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(254): message : zobacz poprzednią definicję „__inout_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(255): message : zobacz poprzednią definicję „__inout_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(258): message : zobacz poprzednią definicję „__inout_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(260): message : zobacz poprzednią definicję „__inout_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1082): message : zobacz poprzednią definicję „__inout_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__inout_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1083): message : zobacz poprzednią definicję „__inout_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(261): message : zobacz poprzednią definicję „__deref_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(262): message : zobacz poprzednią definicję „__deref_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(269): message : zobacz poprzednią definicję „__deref_out_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(270): message : zobacz poprzednią definicję „__deref_out_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(272): message : zobacz poprzednią definicję „__deref_out_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(273): message : zobacz poprzednią definicję „__deref_out_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(275): message : zobacz poprzednią definicję „__deref_out_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(276): message : zobacz poprzednią definicję „__deref_out_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(279): message : zobacz poprzednią definicję „__deref_out_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(280): message : zobacz poprzednią definicję „__deref_out_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1085): message : zobacz poprzednią definicję „__deref_out_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1086): message : zobacz poprzednią definicję „__deref_out_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(282): message : zobacz poprzednią definicję „__deref_inout_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(283): message : zobacz poprzednią definicję „__deref_inout_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(285): message : zobacz poprzednią definicję „__deref_inout_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(286): message : zobacz poprzednią definicję „__deref_inout_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(288): message : zobacz poprzednią definicję „__deref_inout_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(289): message : zobacz poprzednią definicję „__deref_inout_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(292): message : zobacz poprzednią definicję „__deref_inout_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(293): message : zobacz poprzednią definicję „__deref_inout_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1088): message : zobacz poprzednią definicję „__deref_inout_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1089): message : zobacz poprzednią definicję „__deref_inout_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(294): message : zobacz poprzednią definicję „__deref_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(295): message : zobacz poprzednią definicję „__deref_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(303): message : zobacz poprzednią definicję „__deref_out_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(304): message : zobacz poprzednią definicję „__deref_out_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(306): message : zobacz poprzednią definicję „__deref_out_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(307): message : zobacz poprzednią definicję „__deref_out_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(309): message : zobacz poprzednią definicję „__deref_out_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(310): message : zobacz poprzednią definicję „__deref_out_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(313): message : zobacz poprzednią definicję „__deref_out_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(314): message : zobacz poprzednią definicję „__deref_out_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1091): message : zobacz poprzednią definicję „__deref_out_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_out_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1092): message : zobacz poprzednią definicję „__deref_out_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(316): message : zobacz poprzednią definicję „__deref_inout_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(317): message : zobacz poprzednią definicję „__deref_inout_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(319): message : zobacz poprzednią definicję „__deref_inout_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(320): message : zobacz poprzednią definicję „__deref_inout_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(322): message : zobacz poprzednią definicję „__deref_inout_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(323): message : zobacz poprzednią definicję „__deref_inout_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(326): message : zobacz poprzednią definicję „__deref_inout_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(327): message : zobacz poprzednią definicję „__deref_inout_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1094): message : zobacz poprzednią definicję „__deref_inout_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_inout_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1095): message : zobacz poprzednią definicję „__deref_inout_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(328): message : zobacz poprzednią definicję „__deref_opt_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(329): message : zobacz poprzednią definicję „__deref_opt_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(336): message : zobacz poprzednią definicję „__deref_opt_out_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(337): message : zobacz poprzednią definicję „__deref_opt_out_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(339): message : zobacz poprzednią definicję „__deref_opt_out_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(340): message : zobacz poprzednią definicję „__deref_opt_out_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(342): message : zobacz poprzednią definicję „__deref_opt_out_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(343): message : zobacz poprzednią definicję „__deref_opt_out_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(346): message : zobacz poprzednią definicję „__deref_opt_inout_ecount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(347): message : zobacz poprzednią definicję „__deref_opt_inout_bcount”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(349): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_part": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(350): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_part”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(352): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_full": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(353): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_full”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(356): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_z": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(357): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_z”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1097): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_nz": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1098): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_nz”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(358): message : zobacz poprzednią definicję „__deref_opt_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(359): message : zobacz poprzednią definicję „__deref_opt_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(366): message : zobacz poprzednią definicję „__deref_opt_out_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(367): message : zobacz poprzednią definicję „__deref_opt_out_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(369): message : zobacz poprzednią definicję „__deref_opt_out_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(370): message : zobacz poprzednią definicję „__deref_opt_out_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(372): message : zobacz poprzednią definicję „__deref_opt_out_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(373): message : zobacz poprzednią definicję „__deref_opt_out_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(376): message : zobacz poprzednią definicję „__deref_opt_out_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(377): message : zobacz poprzednią definicję „__deref_opt_out_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1100): message : zobacz poprzednią definicję „__deref_opt_out_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_out_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1101): message : zobacz poprzednią definicję „__deref_opt_out_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(379): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(380): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(382): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_part_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(383): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_part_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(385): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_full_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(386): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_full_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(389): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_z_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(390): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_z_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_ecount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1103): message : zobacz poprzednią definicję „__deref_opt_inout_ecount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__deref_opt_inout_bcount_nz_opt": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1104): message : zobacz poprzednią definicję „__deref_opt_inout_bcount_nz_opt”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__success": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(620): message : zobacz poprzednią definicję „__success”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__typefix": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(627): message : zobacz poprzednią definicję „__typefix”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__blocksOn": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(631): message : zobacz poprzednią definicję „__blocksOn”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__control_entrypoint": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(844): message : zobacz poprzednią definicję „__control_entrypoint”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__data_entrypoint": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(1112): message : zobacz poprzednią definicję „__data_entrypoint”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Game.h(26,1): warning C4005: "__analysis_assume": ponowna definicja makra
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\specstrings_strict.h(933): message : zobacz poprzednią definicję „__analysis_assume”
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Menu.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(6,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(13,66): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(13,57): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(20,61): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(20,52): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(30,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(36,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(37,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(40,56): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(40,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Menu.cpp(47,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Paddle.cpp
+  PowerUp.cpp
+  SettingMenu.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(5,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(12,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(12,63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(19,69): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(19,58): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(25,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(32,78): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(32,69): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(39,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(39,64): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(50,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(55,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(58,69): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(58,57): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(63,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(68,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(71,73): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(71,62): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SettingMenu.cpp(79,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  SoundManager.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\SoundManager.cpp(6,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Ui.cpp
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\Ui.h(4,1): warning C4067: nieoczekiwane tokeny występujące po dyrektywie preprocesora - oczekiwano nowego wiersza
+  Trwa generowanie kodu
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\Cyrez\source\repos\ProjectTesst\ProjectTesst\FileStream.ixx(149): warning C4715: "GetFont”: niewszystkie ścieżki kodu zwracają wartość
+  All 2439 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ProjectTesst.vcxproj -> C:\Users\Cyrez\source\repos\ProjectTesst\Release\ProjectTesst.exe
