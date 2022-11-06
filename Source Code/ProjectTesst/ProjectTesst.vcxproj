@@ -166,6 +166,7 @@
     <ClCompile Include="FileStream.ixx" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="HighScoreMenu.cpp" />
+    <ClCompile Include="LevelTileMap.cpp" />
     <ClCompile Include="Library.ixx" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Menu.cpp" />
@@ -185,6 +186,7 @@
     <ClInclude Include="Entity.h" />
     <ClInclude Include="Game.h" />
     <ClInclude Include="HighScoreMenu.h" />
+    <ClInclude Include="LevelTileMap.h" />
     <ClInclude Include="Menu.h" />
     <ClInclude Include="Paddle.h" />
     <ClInclude Include="PowerUp.h" />
